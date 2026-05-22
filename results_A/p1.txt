@@ -1,0 +1,100 @@
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 282562
+Singular groups: 84701
+Neg regular: 296248
+Neg singular: 75884
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 5.26357
+  Estimated message length (bytes): 17.2477
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 180678
+Singular groups: 107539
+Neg regular: 191821
+Neg singular: 100460
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 11.2036
+  Estimated message length (bytes): 36.712
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 243737
+Singular groups: 53803
+Neg regular: 266147
+Neg singular: 41598
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 8.35865
+  Estimated message length (bytes): 27.3896
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 200999
+Singular groups: 109245
+Neg regular: 216398
+Neg singular: 98931
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 11.9958
+  Estimated message length (bytes): 39.3079
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 192882
+Singular groups: 85832
+Neg regular: 216697
+Neg singular: 73206
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 14.3354
+  Estimated message length (bytes): 46.9742
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 210302
+Singular groups: 83221
+Neg regular: 226151
+Neg singular: 73116
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 9.26596
+  Estimated message length (bytes): 30.3627
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 183198
+Singular groups: 103576
+Neg regular: 212649
+Neg singular: 91920
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 19.751
+  Estimated message length (bytes): 64.7202
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 201186
+Singular groups: 85097
+Neg regular: 219675
+Neg singular: 74539
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 11.1924
+  Estimated message length (bytes): 36.6752
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 181380
+Singular groups: 88675
+Neg regular: 189633
+Neg singular: 82890
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 7.15995
+  Estimated message length (bytes): 23.4617
+Image size: 512 x 512
+Total pixels: 262144
+Regular groups: 167919
+Singular groups: 89911
+Neg regular: 185016
+Neg singular: 80566
+Total groups: 522242
+RS analysis:
+  Estimated message length (pixels %): 14.2597
+  Estimated message length (bytes): 46.7261
